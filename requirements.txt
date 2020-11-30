@@ -1,0 +1,24 @@
+atomicwrites==1.4.0
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+brotlipy==0.7.0
+certifi==2020.11.8
+cffi @ file:///C:/ci/cffi_1605538112425/work
+colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+cryptography @ file:///C:/ci/cryptography_1605526388508/work
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+iniconfig @ file:///tmp/build/80754af9/iniconfig_1602780191262/work
+more-itertools @ file:///tmp/build/80754af9/more-itertools_1605111547926/work
+packaging==20.4
+pluggy==0.13.1
+py @ file:///tmp/build/80754af9/py_1593446248552/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
+pyparsing==2.4.7
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+pytest==0.0.0
+selenium==3.141.0
+six @ file:///C:/ci/six_1605187374963/work
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
